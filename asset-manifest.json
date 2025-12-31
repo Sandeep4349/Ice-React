@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ice-React/static/css/main.2a75ab1d.css",
+    "main.js": "/Ice-React/static/js/main.a0460d69.js",
+    "static/js/453.4732b69d.chunk.js": "/Ice-React/static/js/453.4732b69d.chunk.js",
+    "index.html": "/Ice-React/index.html",
+    "main.2a75ab1d.css.map": "/Ice-React/static/css/main.2a75ab1d.css.map",
+    "main.a0460d69.js.map": "/Ice-React/static/js/main.a0460d69.js.map",
+    "453.4732b69d.chunk.js.map": "/Ice-React/static/js/453.4732b69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a75ab1d.css",
+    "static/js/main.a0460d69.js"
+  ]
+}
