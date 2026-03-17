@@ -1,3 +1,25 @@
+ 🍦 IceCream Delight – React Web App
+
+IceCream Delight is a responsive and interactive ice cream ordering web application built using React.js. It provides a smooth user experience with modern UI design, seamless navigation, and dynamic content rendering.
+
+---
+
+## 🚀 Features
+- Multi-page navigation using React Router  
+- Responsive and modern user interface  
+- Dynamic product display and routing  
+- Smooth user experience with fast loading  
+- Component-based architecture  
+
+---
+
+## 🛠️ Tech Stack
+- React.js  
+- JavaScript  
+- HTML  
+- CSS  
+- React Router DOM
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
